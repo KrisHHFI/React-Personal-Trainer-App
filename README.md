@@ -1,7 +1,5 @@
 # Personal Trainer App (uni project)
 
-Check out the [demo video](https://www.youtube.com/watch?v=vITms1rchFk).
-
 ### Launch the App
 
 `cd` to folder and `npm start`.
